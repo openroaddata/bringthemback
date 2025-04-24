@@ -1,0 +1,9 @@
+﻿ID,FIRST_NAME,LAST_NAME,FULL,AGE_AT_DEPORTATION,SOURCE_ID_LIST,IMMIGRATION_STATUS,IMMIGRATION_ASSIGNMENT,CRIMINAL_RECORD,CITY,STATE
+1,Kilmar,Abrego Garcia,Kilmar Abrego Garcia,29,"3, 4, 6, 8",In US illegally,Withholding of Removal,No record,,Maryland
+2,Edicson David,Quintero Chacon,Edicson David Quintero Chacon,28,"5, 40, 41, 42, 43, 44",Humanitarian channels,Judge ordered deportation to VE,No record,,
+3,Francisco Javier,García Cacique,Francisco Javier García Cacique,24,"9, 36, 37, 38, 39",Humanitarian channels,Electronic bracelet until repatriated to VE,No record,,
+4,Andry,Hernandez Romero,Andry Hernandez Romero,31,"28, 29, 30, 31, 32, 33, 35",Humanitarian channels,In process: strong asylum case,No record,,
+5,Merwil,Gutiérrez,Merwil Gutiérrez,19,"11, 23, 24, 25, 26, 27",In US legally,Asylum,No record,,
+6,Richard Alexander,Duarte Rodríguez,Richard Alexander Duarte Rodríguez,24,12,Humanitarian channels,Temporary Protected Status,No record,,
+7,Widmer Josneyder,Agelviz Sanguino,Widmer Josneyder Agelviz Sanguino,24,"20, 21, 22, 34",Humanitarian channels,Under protection of UNHCR,No record,,
+8,Neiyerver Adrián,Leon Rengel,Neiyerver Adrián Leon Rengel,27,51,Humanitarian channels,CBP One App,Class C Misdemeanor,,
