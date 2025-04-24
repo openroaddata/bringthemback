@@ -1,5 +1,5 @@
 ﻿ID,FIRST_NAME,LAST_NAME,FULL,AGE_AT_DEPORTATION,SOURCE_IDS,IMMIGRATION_STATUS,IMMIGRATION_ASSIGNMENT,CRIMINAL_RECORD,CITY,STATE
-1,Kilmar,Abrego Garcia,Kilmar Abrego Garcia,29,"3, 4, 6, 8",In US illegally,Withholding of Removal,No record,,Maryland
+1,Kilmar,Abrego Garcia,Kilmar Abrego Garcia,29,"3, 4, 6, 8",In US legally,Withholding of Removal,No record,,Maryland
 2,Edicson David,Quintero Chacon,Edicson David Quintero Chacon,28,"5, 40, 41, 42, 43, 44",Humanitarian channels,Judge ordered deportation to VE,No record,,
 3,Francisco Javier,García Cacique,Francisco Javier García Cacique,24,"9, 36, 37, 38, 39",Humanitarian channels,Electronic bracelet until repatriated to VE,No record,,
 4,Andry,Hernandez Romero,Andry Hernandez Romero,31,"28, 29, 30, 31, 32, 33, 35",Humanitarian channels,In process: strong asylum case,No record,,
